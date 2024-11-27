@@ -11,7 +11,7 @@ class Config:
     HIDDEN_DIM = 256  # 增加隐藏层维度
     LATENT_DIM = 128   # 增加潜在空间维度
     LEARNING_RATE = 5e-4
-    NUM_EPOCHS = 300
+    NUM_EPOCHS = 1000
     NUM_HEADS = 8
     NUM_LAYERS = 4
     DROPOUT = 0.2
