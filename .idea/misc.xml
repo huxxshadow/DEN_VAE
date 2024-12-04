@@ -3,5 +3,5 @@
   <component name="Black">
     <option name="sdkName" value="LandVAE" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="DEN_VAE" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="LandVAE" project-jdk-type="Python SDK" />
 </project>
